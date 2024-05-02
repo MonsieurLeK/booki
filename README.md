@@ -1,5 +1,7 @@
 Contexte du projet : Sarah, CTO de l'entreprise Booki, m'a envoyé une maquette figma afin de me permettre de réaliser le front-end de leur futur site internet.
 
+Technologies utilisées: HTML / CSS / Figma / W3C Validator
+
 ------------------
 
 Compétences développées: 
