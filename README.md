@@ -6,3 +6,7 @@ Compétences développées:
 - Respect de la sémantique et des bonnes pratiques du Web.
 - Etude et découpe d'une maquette.
 - Intégration d'une maquette en respectant la charte graphique.
+
+-------------------
+
+Lien du site en live: https://monsieurlek.github.io/booki/
