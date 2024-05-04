@@ -12,3 +12,5 @@ Compétences développées:
 -------------------
 
 Lien du site en live: https://monsieurlek.github.io/booki/
+
+lien vers la maquette: https://www.figma.com/file/g26YDMAIMriETWDopXhOOi/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)-(Copy)?type=design&node-id=3-0&mode=design&t=GXFbI6UaxbnDpHsM-0
